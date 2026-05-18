@@ -16,9 +16,9 @@ This project addresses the need to identify where additional charging stations m
 - Present findings through an interactive Power BI dashboard
 
 ## Tools Used
-- **SQL** – Data extraction, aggregation, and analytical queries
-- **Excel** – Data cleaning, validation, and preparation
-- **Power BI** – Dashboard design, KPI tracking, and visual analysis
+- **Excel** – Initial data review, cleaning, validation, and preparation of the dataset
+- **SQL** – Advanced data analysis using joins, CTEs, window functions, ranking logic, segmentation, and expansion-priority scoring
+- **Power BI** – Interactive dashboard development, KPI tracking, and visual storytelling for charging network expansion strategy
 
 ## Dashboard Preview
 Dashboard screenshot will be added here.
