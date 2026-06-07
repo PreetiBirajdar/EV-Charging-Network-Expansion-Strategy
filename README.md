@@ -1,12 +1,14 @@
 # ⚡ EV Charging Network Expansion Strategy
 
 ## Project Overview
-This case study analyzes electric vehicle charging infrastructure to support data-driven network expansion decisions. Using SQL, Excel, and Power BI, the project evaluates charging availability, geographic coverage, rapid charging access, and potential infrastructure gaps to identify priority areas for future expansion.
+
+This case study analyzes public electric vehicle charging infrastructure in the UK to support data-driven network expansion decisions. Using Excel, SQL, and Power BI, the project evaluates charging availability, geographic coverage, rapid charging access, and potential infrastructure gaps to identify priority areas for future expansion.
 
 ## Business Problem
-As electric vehicle adoption increases, charging networks must expand strategically to meet demand while avoiding underused infrastructure. Poor site selection can lead to insufficient coverage in high-demand areas, long wait times for users, and inefficient investment decisions.
 
-This project addresses the need to identify where additional charging stations may be required and how expansion decisions can be guided by demand, utilization, and location-based insights.
+As electric vehicle adoption increases, public charging networks must expand strategically to improve accessibility and support future transport needs. Uneven charger distribution can lead to limited charging access in some local authorities, weaker rapid charging availability, and inefficient infrastructure planning.
+
+This project addresses the need to identify which UK local authorities may require additional charging infrastructure and how expansion decisions can be guided by charger availability, rapid charging access, and location-based gap analysis.
 
 ## Objectives
 - Assess EV charging demand across locations
@@ -68,7 +70,7 @@ SQL file: [`sql/uk_ev_charging_analysis.sql`](sql/uk_ev_charging_analysis.sql)
 
 #### SQLite Data Preview
 
-![SQLite Data Preview](screenshots/sqlite_data_preview.png)
+![SQLite Data Preview](screenshots/sql_data_preview.png)
 
 ## Dashboard Preview
 Dashboard screenshot will be added here.
