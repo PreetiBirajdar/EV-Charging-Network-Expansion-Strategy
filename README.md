@@ -60,6 +60,8 @@ The SQL analysis includes:
 
 SQL file: [`sql/uk_ev_charging_analysis.sql`](sql/uk_ev_charging_analysis.sql)
 
+Screenshot 
+
 ## Dashboard Preview
 Dashboard screenshot will be added here.
 
