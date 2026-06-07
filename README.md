@@ -66,11 +66,11 @@ SQL file: [`sql/uk_ev_charging_analysis.sql`](sql/uk_ev_charging_analysis.sql)
 
 ### Advanced SQL Query
 
-<img width="1369" height="939" alt="Advanced SQL Query Screenshot" src="YOUR_SQL_QUERY_SCREENSHOT_URL_HERE" />
+<img width="1369" height="939" alt="Advanced SQL Query Screenshot" src="https://github.com/PreetiBirajdar/EV-Charging-Network-Expansion-Strategy/blob/main/screenshots/sql_advanced_query.PNG" />
 
 ### SQLite Data Preview
 
-<img width="1369" height="939" alt="SQLite Data Preview Screenshot" src="YOUR_SQL_DATA_PREVIEW_SCREENSHOT_URL_HERE" />
+<img width="1369" height="939" alt="SQLite Data Preview Screenshot" src="https://github.com/PreetiBirajdar/EV-Charging-Network-Expansion-Strategy/blob/main/screenshots/sqlite_data_preview.PNG" />
 
 ## Dashboard Preview
 Dashboard screenshot will be added here.
