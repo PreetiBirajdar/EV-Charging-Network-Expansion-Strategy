@@ -1,4 +1,4 @@
-# ⚡ UK EV Charging Network Expansion Strategy: Local Authority Gap Analysis
+# ⚡ EV Charging Network Expansion Strategy: Local Authority Gap Analysis
 
 ## Project Overview
 
