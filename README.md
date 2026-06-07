@@ -62,15 +62,15 @@ The SQL analysis includes:
 
 SQL file: [`sql/uk_ev_charging_analysis.sql`](sql/uk_ev_charging_analysis.sql)
 
-### SQL Screenshots
+## SQL Screenshots
 
-#### Advanced SQL Query: Quartile-Based Access Segmentation
+### Advanced SQL Query
 
-![Advanced SQL Query](screenshots/sql_advanced_query.png)
+<img width="1369" height="939" alt="Advanced SQL Query Screenshot" src="YOUR_SQL_QUERY_SCREENSHOT_URL_HERE" />
 
-#### SQLite Data Preview
+### SQLite Data Preview
 
-![SQLite Data Preview](screenshots/sql_data_preview.png)
+<img width="1369" height="939" alt="SQLite Data Preview Screenshot" src="YOUR_SQL_DATA_PREVIEW_SCREENSHOT_URL_HERE" />
 
 ## Dashboard Preview
 Dashboard screenshot will be added here.
