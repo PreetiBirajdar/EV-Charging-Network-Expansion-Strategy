@@ -11,10 +11,11 @@ As electric vehicle adoption increases, public charging networks must expand str
 This project addresses the need to identify which UK local authorities may require additional charging infrastructure and how expansion decisions can be guided by charger availability, rapid charging access, and location-based gap analysis.
 
 ## Objectives
-- Assess EV charging demand across locations
-- Identify underserved or high-opportunity areas
-- Analyze charger utilization and infrastructure gaps
-- Support location prioritization for network expansion
+
+- Assess public EV charging availability across UK local authorities
+- Identify underserved areas with low charger access
+- Analyze rapid charging availability and infrastructure gaps
+- Rank local authorities by charger access and expansion priority
 - Present findings through an interactive Power BI dashboard
 
 ## Data
