@@ -15,6 +15,26 @@ This project addresses the need to identify where additional charging stations m
 - Support location prioritization for network expansion
 - Present findings through an interactive Power BI dashboard
 
+## Data
+
+This project uses UK public EV charging infrastructure data from GOV.UK.
+
+The dataset was prepared in two stages:
+
+### Raw Data
+The raw data files contain separate EV charging metrics:
+- `ev_total_devices.csv` — total public EV charging devices
+- `ev_rapid_devices.csv` — rapid public EV charging devices
+- `ev_total_per_100k.csv` — total devices per 100,000 population
+- `ev_rapid_per_100k.csv` — rapid devices per 100,000 population
+
+### Cleaned Data
+The cleaned files were created for SQL analysis and Power BI dashboarding:
+- `uk_ev_charging_combined_data.csv` — combined long-format dataset used for SQL analysis
+- `ev_expansion_priority_powerbi.csv` — final SQL output used for Power BI dashboarding
+
+Data source: GOV.UK Electric Vehicle Charging Infrastructure Statistics.
+
 ## Tools Used
 - **Excel** – Initial data review, cleaning, validation, and preparation of the dataset
 - **SQL** – Advanced data analysis using joins, CTEs, window functions, ranking logic, segmentation, and expansion-priority scoring
