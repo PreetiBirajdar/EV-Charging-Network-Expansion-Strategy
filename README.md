@@ -1,7 +1,7 @@
 # ⚡ EV Charging Network Expansion Strategy
 
 ## Project Overview
-This case study analyzes electric vehicle charging infrastructure to support data-driven network expansion decisions. Using SQL, Excel, and Power BI, the project evaluates charging demand, geographic coverage, utilization patterns, and potential service gaps to identify priority areas for future expansion.
+This case study analyzes electric vehicle charging infrastructure to support data-driven network expansion decisions. Using SQL, Excel, and Power BI, the project evaluates charging availability, geographic coverage, rapid charging access, and potential infrastructure gaps to identify priority areas for future expansion.
 
 ## Business Problem
 As electric vehicle adoption increases, charging networks must expand strategically to meet demand while avoiding underused infrastructure. Poor site selection can lead to insufficient coverage in high-demand areas, long wait times for users, and inefficient investment decisions.
