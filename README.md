@@ -36,9 +36,29 @@ The cleaned files were created for SQL analysis and Power BI dashboarding:
 Data source: GOV.UK Electric Vehicle Charging Infrastructure Statistics.
 
 ## Tools Used
-- **Excel** – Initial data review, cleaning, validation, and preparation of the dataset
-- **SQL** – Advanced data analysis using joins, CTEs, window functions, ranking logic, segmentation, and expansion-priority scoring
-- **Power BI** – Interactive dashboard development, KPI tracking, and visual storytelling for charging network expansion strategy
+- **Excel** – Initial data review, cleaning, validation, and preparation of raw EV charging datasets
+- **SQL** – Data validation, transformation, CTEs, window functions, ranking, segmentation, trend analysis, and expansion-priority scoring
+- **Power BI** – Interactive dashboard development, KPI tracking, local authority gap analysis, and visual storytelling for EV charging network expansion
+
+## SQL Analysis
+
+SQL was used to validate, transform, and analyze the UK EV charging infrastructure dataset before dashboard development.
+
+The SQL analysis includes:
+
+- Data preview and quality checks
+- Missing value and duplicate checks
+- Latest-period analysis
+- Charger access ranking
+- Rapid charger share calculation
+- Underserved local authority identification
+- Quartile analysis using `NTILE()`
+- Ranking using `RANK()`
+- Trend analysis using `LAG()`
+- Expansion priority scoring using CTEs and `CASE WHEN`
+- Final SQL output for Power BI dashboarding
+
+SQL file: [`sql/uk_ev_charging_analysis.sql`](sql/uk_ev_charging_analysis.sql)
 
 ## Dashboard Preview
 Dashboard screenshot will be added here.
